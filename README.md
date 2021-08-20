@@ -1,4 +1,4 @@
-# ScientificCalculator
+# Scientific Calculator
 
 ## Description
 
